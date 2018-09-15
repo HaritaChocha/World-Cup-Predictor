@@ -1,0 +1,739 @@
+,Player,Caps,Goals,Country,overall,nationality
+0,Essam El Hadary,158,0,Egypt,70,Egypt
+1,Ali Gabr,21,1,Egypt,67,Egypt
+2,Ahmed Elmohamady,78,2,Egypt,72,Egypt
+3,Omar Gaber,24,0,Egypt,69,Egypt
+4,Sam Morsy,5,0,Egypt,68,Egypt
+5,Ahmed Hegazy,45,1,Egypt,,
+6,Ahmed Fathi,126,3,Egypt,,
+7,Tarek Hamed,21,0,Egypt,66,Egypt
+8,Marwan Mohsen,24,4,Egypt,65,Egypt
+9,Mohamed Salah,57,33,Egypt,83,Egypt
+10,Mahmoud Abdel Moneim,19,3,Egypt,,
+11,Ayman Ashraf,4,0,Egypt,,
+12,Mohamed Abdul Shafy,51,1,Egypt,,
+13,Ramadan Sobhi,23,1,Egypt,74,Egypt
+14,Mahmoud Hamdy,0,0,Egypt,,
+15,Sherif Ekramy,22,0,Egypt,69,Egypt
+16,Mohamed Elneny,61,5,Egypt,77,Egypt
+17,Shikabala,29,2,Egypt,,
+18,Abdallah El-Said,36,6,Egypt,,
+19,Samir Saad,11,0,Egypt,,
+20,Trezeguet,24,2,Egypt,,
+21,Amr Warda,16,0,Egypt,71,Egypt
+22,Ahmed El-Shenawy,3,0,Egypt,,
+23,Igor Akinfeev,106,0,Russia,79,Russia
+24,Mário Figueira Fernandes,5,0,Russia,,
+25,Ilya Kutepov,7,0,Russia,73,Russia
+26,Sergey Ignashevich,122,8,Russia,,
+27,Andrei Sergeyevich Semyonov,6,0,Russia,,
+28,Denis Cheryshev,11,0,Russia,78,Russia
+29,Daler Kuzyaev,6,0,Russia,,
+30,Yuriy Gazinskiy,6,0,Russia,,
+31,Alan Dzagoev,57,9,Russia,80,Russia
+32,Fedor Smolov,32,12,Russia,,
+33,Roman Zobnin,12,0,Russia,77,Russia
+34,Andrey Lunev,3,0,Russia,,
+35,Fedor Kudryashov,19,0,Russia,,
+36,Vladimir Granat,12,1,Russia,72,Russia
+37,Alexey Miranchuk,18,4,Russia,,
+38,Anton Miranchuk,6,0,Russia,68,Russia
+39,Alexandr Golovin,19,2,Russia,,
+40,Yuriy Zhirkov,84,2,Russia,,
+41,Alexandr Samedov,48,7,Russia,,
+42,Vladimir Gabulov,10,0,Russia,74,Russia
+43,Aleksandr Yerokhin,17,0,Russia,,
+44,Artem Dzyuba,23,11,Russia,78,Russia
+45,Igor Smolnikov,27,0,Russia,79,Russia
+46,Abdullah Al Mayoof,11,0,Saudi Arabia,,
+47,Mansour Al Harbi,40,1,Saudi Arabia,,
+48,Osama Hawsawi,135,7,Saudi Arabia,75,Saudi Arabia
+49,Ali Al Bulayhi,4,0,Saudi Arabia,,
+50,Omar Ibrahim Hawsawi,42,3,Saudi Arabia,,
+51,Mohammed Al Buraik,11,1,Saudi Arabia,,
+52,Salman Al Faraj,43,3,Saudi Arabia,,
+53,Yahya Al Musallam,57,8,Saudi Arabia,,
+54,Hattan Bahebri,5,0,Saudi Arabia,66,Saudi Arabia
+55,Mohammed Al Sahlawi,40,28,Saudi Arabia,,
+56,Abdulmalek Al Khaibari,36,0,Saudi Arabia,,
+57,Mohamed Kanno,6,1,Saudi Arabia,67,Saudi Arabia
+58,Yasser Al Shahrani,37,0,Saudi Arabia,,
+59,Abdullah Al Owayshir,16,1,Saudi Arabia,,
+60,Abdullah Al Zahrani,5,0,Saudi Arabia,,
+61,Hussain Al Moqahwi,18,1,Saudi Arabia,,
+62,Taiseer Al Jassam,132,19,Saudi Arabia,,
+63,Salem Al Dawsari,33,4,Saudi Arabia,,
+64,Fahad Al Muwallad,45,10,Saudi Arabia,,
+65,Muhannad Assiri,18,4,Saudi Arabia,,
+66,Yasser Al Mosailem,32,0,Saudi Arabia,,
+67,Mohammed Al Saeed,6,0,Saudi Arabia,,
+68,Motaz Hawsawi,17,0,Saudi Arabia,74,Saudi Arabia
+69,Fernando Muslera,97,0,Uruguay,82,Uruguay
+70,Jose Gimenez,42,5,Uruguay,,
+71,Diego Godín,116,8,Uruguay,,
+72,Guillermo Varela,3,0,Uruguay,,
+73,Carlos Andres Sanchez,36,1,Uruguay,,
+74,Rodrigo Bentancur,7,0,Uruguay,70,Uruguay
+75,Cristian Rodriguez,105,11,Uruguay,,
+76,Nahitan Nandez,12,0,Uruguay,,
+77,Luis Suarez,98,51,Uruguay,,
+78,Giorgian De Arrascaeta,14,2,Uruguay,,
+79,Cristhian Stuani,41,5,Uruguay,77,Uruguay
+80,Martin Campana,1,0,Uruguay,,
+81,Gaston Silva,17,0,Uruguay,,
+82,Lucas Torreira,3,0,Uruguay,76,Uruguay
+83,Matias Vecino,22,1,Uruguay,78,Uruguay
+84,Maxi Pereira,125,3,Uruguay,,
+85,Diego Laxalt,6,0,Uruguay,78,Uruguay
+86,Maxi Gomez,5,0,Uruguay,,
+87,Sebastian Coates,30,1,Uruguay,,
+88,Jonathan Urretaviscaya,4,0,Uruguay,74,Uruguay
+89,Edinson Cavani,101,42,Uruguay,87,Uruguay
+90,Martin Caceres,76,4,Uruguay,,
+91,Martin Silva,11,0,Uruguay,,
+92,Alireza Beiranvand,22,0,Iran,,
+93,Mehdi Torabi,17,4,Iran,,
+94,Ehsan Hajsafi,94,6,Iran,,
+95,Rouzbeh Cheshmi,10,1,Iran,,
+96,Milad Mohammadi,19,0,Iran,,
+97,Saeid Ezatolahi,25,1,Iran,,
+98,Masoud Shojaei,74,8,Iran,,
+99,Morteza Pouraliganji,27,2,Iran,,
+100,Omid Ebrahimi,30,0,Iran,,
+101,Karim Ansarifard,64,17,Iran,,
+102,Vahid Amiri,36,1,Iran,,
+103,Mohammad Rashid Mazaheri,3,0,Iran,,
+104,Mohammad Reza Khanzadeh,11,1,Iran,,
+105,Saman Ghoddos,8,1,Iran,72,Sweden
+106,Pejman Montazeri,46,1,Iran,,
+107,Reza Ghoochannejhad,43,17,Iran,,
+108,Mehdi Taremi,26,11,Iran,,
+109,Alireza Jahanbakhsh,38,4,Iran,,
+110,Majid Hosseini,1,0,Iran,,
+111,Sardar Azmoun,33,23,Iran,,
+112,Ashkan Dejagah,46,9,Iran,,
+113,Amir Abedzadeh,1,0,Iran,,
+114,Ramin Rezaeian,28,2,Iran,,
+115,Yassine Bounou,11,0,Morocco,71,Morocco
+116,Achraf Hakimi,10,1,Morocco,71,Morocco
+117,Hamza Mendyl,13,0,Morocco,63,Morocco
+118,Manuel da Costa,28,1,Morocco,,
+119,Medhi Benatia,57,2,Morocco,84,Morocco
+120,Romain Saiss,24,1,Morocco,,
+121,Hakim Ziyech,18,9,Morocco,81,Morocco
+122,Karim El Ahmadi,51,1,Morocco,80,Morocco
+123,Ayoub El Kaabi,10,11,Morocco,,
+124,Younes Belhanda,47,5,Morocco,,
+125,Faycal Fajr,23,2,Morocco,,
+126,Munir Mohand Mohamedi,27,0,Morocco,70,Morocco
+127,Khalid Boutaib,18,7,Morocco,,
+128,Mbark Boussoufa,59,7,Morocco,,
+129,Youssef Ait Bennasser,14,0,Morocco,72,Morocco
+130,Nordin Amrabat,44,4,Morocco,79,Morocco
+131,Nabil Dirar,34,3,Morocco,76,Morocco
+132,Amine Harit,6,0,Morocco,71,Morocco
+133,Youssef En-Nesyri,16,2,Morocco,69,Morocco
+134,Aziz Bouhaddouz,15,3,Morocco,73,Morocco
+135,Sofyan Amrabat,6,0,Morocco,74,Morocco
+136,Ahmed Reda Tagnaouti,2,0,Morocco,,
+137,Mehdi Carcela,20,1,Morocco,,
+138,Rui Patricio,69,0,Portugal,,
+139,Bruno Alves,96,11,Portugal,,
+140,Pepe (footballer,95,5,Portugal,,
+141,Manuel Fernandes,14,3,Portugal,,
+142,Raphael Guerreiro,24,2,Portugal,,
+143,Jose Fonte,31,0,Portugal,,
+144,Cristiano Ronaldo,150,81,Portugal,,
+145,Joao Moutinho,110,7,Portugal,,
+146,Andre Silva (footballer,23,12,Portugal,,
+147,Joao Mario,36,2,Portugal,,
+148,Bernardo Silva,25,2,Portugal,,
+149,Anthony Lopes,7,0,Portugal,83,Portugal
+150,Ruben Dias,1,0,Portugal,,
+151,William Carvalho,43,2,Portugal,,
+152,Ricardo Pereira,4,0,Portugal,,
+153,Bruno Fernandes,6,1,Portugal,,
+154,Goncalo Guedes,10,3,Portugal,,
+155,Gelson Martins,18,0,Portugal,,
+156,Mario Rui,4,0,Portugal,,
+157,Ricardo Quaresma,77,9,Portugal,,
+158,Cedric Soares,29,1,Portugal,,
+159,Beto,14,0,Portugal,,
+160,Adrien Silva,23,1,Portugal,,
+161,David de Gea,29,0,Spain,,
+162,Dani Carvajal,15,0,Spain,,
+163,Gerard Pique,98,5,Spain,,
+164,Nacho (footballer,17,0,Spain,,
+165,Sergio Busquets,103,2,Spain,,
+166,Andres Iniesta,127,14,Spain,,
+167,Saul Niguez,10,0,Spain,,
+168,Koke (footballer,40,0,Spain,,
+169,Rodrigo,6,2,Spain,,
+170,Thiago Alcantara,29,2,Spain,,
+171,Lucas Vazquez,7,0,Spain,,
+172,Alvaro Odriozola,4,1,Spain,,
+173,Kepa Arrizabalaga,1,0,Spain,80,Spain
+174,Cesar Azpilicueta,22,0,Spain,,
+175,Sergio Ramos,152,13,Spain,,
+176,Nacho Monreal,22,1,Spain,,
+177,Iago Aspas,10,5,Spain,,
+178,Jordi Alba,62,8,Spain,,
+179,Diego Costa,20,7,Spain,,
+180,Marco Asensio,12,0,Spain,,
+181,David Silva,121,35,Spain,73,Colombia
+182,Isco,28,10,Spain,,
+183,Pepe Reina,36,0,Spain,,
+184,Mathew Ryan,44,0,Australia,77,Australia
+185,Milos Degenek,18,0,Australia,,
+186,James Meredith,2,0,Australia,68,Australia
+187,Tim Cahill,106,50,Australia,70,Australia
+188,Mark Milligan,71,6,Australia,74,Australia
+189,Matthew Jurman,4,0,Australia,69,Australia
+190,Mathew Leckie,53,8,Australia,73,Australia
+191,Massimo Luongo,36,5,Australia,71,Australia
+192,Tomi Juric,35,8,Australia,,
+193,Robbie Kruse,64,5,Australia,72,Australia
+194,Andrew Nabbout,4,1,Australia,65,Australia
+195,Brad Jones,6,0,Australia,77,Australia
+196,Aaron Mooy,34,5,Australia,77,Australia
+197,Jamie Maclaren,6,0,Australia,73,Australia
+198,Mile Jedinak,76,18,Australia,,
+199,Aziz Behich,23,2,Australia,73,Australia
+200,Daniel Arzani,2,1,Australia,58,Australia
+201,Danny Vukovic,1,0,Australia,70,Australia
+202,Josh Risdon,8,0,Australia,70,Australia
+203,Trent Sainsbury,35,3,Australia,74,Australia
+204,Dimitri Petratos,2,0,Australia,66,Australia
+205,Jackson Irvine,19,2,Australia,71,Australia
+206,Tom Rogic,37,7,Australia,,
+207,Kasper Schmeichel,35,0,Denmark,83,Denmark
+208,Michael Krohn-Dehli,59,6,Denmark,79,Denmark
+209,Jannik Vestergaard,16,1,Denmark,78,Denmark
+210,Simon Kjær,78,3,Denmark,81,Denmark
+211,Jonas Knudsen,3,0,Denmark,69,Denmark
+212,Andreas Christensen,16,1,Denmark,81,Denmark
+213,William Kvist,80,2,Denmark,70,Denmark
+214,Thomas Delaney,27,4,Denmark,78,Denmark
+215,Nicolai Jørgensen,31,8,Denmark,79,Denmark
+216,Christian Eriksen,78,22,Denmark,87,Denmark
+217,Martin Braithwaite,20,1,Denmark,77,Denmark
+218,Kasper Dolberg,6,1,Denmark,78,Denmark
+219,Mathias Jørgensen,12,0,Denmark,75,Denmark
+220,Henrik Dalsgaard,11,0,Denmark,71,Denmark
+221,Viktor Fischer,19,3,Denmark,75,Denmark
+222,Jonas Lossl,1,0,Denmark,,
+223,Jens Stryger Larsen,13,1,Denmark,69,Denmark
+224,Lukas Lerager,4,0,Denmark,75,Denmark
+225,Lasse Schone,36,3,Denmark,,
+226,Yussuf Poulsen,28,4,Denmark,76,Denmark
+227,Andreas Cornelius,18,4,Denmark,73,Denmark
+228,Frederik Rønnow,6,0,Denmark,74,Denmark
+229,Pione Sisto,14,1,Denmark,74,Denmark
+230,Hugo Lloris,98,0,France,88,France
+231,Benjamin Pavard,6,0,France,73,France
+232,Presnel Kimpembe,2,0,France,77,France
+233,Raphael Varane,42,2,France,,
+234,Samuel Umtiti,19,2,France,83,France
+235,Paul Pogba,54,9,France,87,France
+236,Antoine Griezmann,54,20,France,88,France
+237,Thomas Lemar,12,3,France,83,France
+238,Olivier Giroud,74,31,France,82,France
+239,Kylian Mbappe,15,4,France,,
+240,Ousmane Dembele,12,2,France,,
+241,Corentin Tolisso,9,0,France,82,France
+242,N'Golo Kante,24,1,France,,
+243,Blaise Matuidi,67,9,France,85,France
+244,Steven Nzonzi,4,0,France,,
+245,Steve Mandanda,27,0,France,81,France
+246,Adil Rami,35,1,France,81,France
+247,Nabil Fekir,12,2,France,82,France
+248,Djibril Sidibe,17,1,France,,
+249,Florian Thauvin,4,0,France,82,France
+250,Lucas Hernandez,5,0,France,,
+251,Benjamin Mendy,7,0,France,78,France
+252,Alphonse Areola,0,0,France,80,France
+253,Pedro Gallese,38,0,Peru,74,Peru
+254,Alberto Junior Rodriguez,59,0,Peru,,
+255,Aldo Corzo,25,0,Peru,68,Peru
+256,Anderson Santamaria,4,0,Peru,,
+257,Miguel Araujo,7,0,Peru,69,Peru
+258,Miguel Trauco,27,0,Peru,,
+259,Paolo Hurtado,31,3,Peru,76,Peru
+260,Christian Cueva,44,8,Peru,,
+261,Paolo Guerrero,88,34,Peru,,
+262,Jefferson Farfan,84,25,Peru,,
+263,Raul Ruidiaz,30,4,Peru,,
+264,Carlos Caceda,4,0,Peru,,
+265,Renato Tapia,23,1,Peru,72,Peru
+266,Andy Polo,17,1,Peru,69,Peru
+267,Christian Ramos,66,3,Peru,67,Peru
+268,Wilder Cartagena,3,0,Peru,64,Peru
+269,Luis Advincula,65,0,Peru,,
+270,Andre Carrillo,45,5,Peru,,
+271,Yoshimar Yotun,73,2,Peru,,
+272,Edison Flores,29,9,Peru,65,Peru
+273,Jose Carvallo,6,0,Peru,,
+274,Nilson Loyola,3,0,Peru,64,Peru
+275,Pedro Aquino,13,0,Peru,67,Peru
+276,Nahuel Guzman,6,0,Argentina,,
+277,Gabriel Mercado,20,3,Argentina,76,Argentina
+278,Nicolas Tagliafico,4,0,Argentina,,
+279,Cristian Ansaldi,5,0,Argentina,79,Argentina
+280,Lucas Biglia,57,1,Argentina,83,Argentina
+281,Federico Fazio,9,1,Argentina,82,Argentina
+282,Ever Banega,62,6,Argentina,,
+283,Marcos Acuna,10,0,Argentina,,
+284,Gonzalo Higuain,71,31,Argentina,,
+285,Lionel Messi,124,64,Argentina,93,Argentina
+286,Angel Di Maria,94,19,Argentina,,
+287,Franco Armani,0,0,Argentina,77,Argentina
+288,Maximiliano Meza,2,0,Argentina,73,Argentina
+289,Javier Mascherano,143,3,Argentina,83,Argentina
+290,Enzo Perez,23,1,Argentina,,
+291,Marcos Rojo,56,2,Argentina,82,Argentina
+292,Nicolas Otamendi,54,4,Argentina,,
+293,Eduardo Salvio,9,0,Argentina,80,Argentina
+294,Sergio Aguero,85,37,Argentina,,
+295,Giovani Lo Celso,5,0,Argentina,74,Argentina
+296,Paulo Dybala,12,0,Argentina,88,Argentina
+297,Cristian Pavon,5,0,Argentina,,
+298,Willy Caballero,3,0,Argentina,79,Argentina
+299,Dominik Livakovic,1,0,Croatia,,
+300,Sime Vrsaljko,35,0,Croatia,,
+301,Ivan Strinic,43,0,Croatia,,
+302,Ivan Perisic,66,18,Croatia,,
+303,Vedran Corluka,99,4,Croatia,,
+304,Dejan Lovren,39,2,Croatia,81,Croatia
+305,Ivan Rakitic,92,14,Croatia,,
+306,Mateo Kovacic,41,1,Croatia,,
+307,Andrej Kramaric,31,9,Croatia,,
+308,Luka Modric,106,12,Croatia,,
+309,Marcelo Brozovic,35,6,Croatia,,
+310,Lovre Kalinic,11,0,Croatia,,
+311,Tin Jedvaj,12,0,Croatia,76,Croatia
+312,Filip Bradaric,4,0,Croatia,,
+313,Duje Caleta-Car,1,0,Croatia,,
+314,Nikola Kalinic,42,15,Croatia,,
+315,Mario Mandzukic,83,30,Croatia,,
+316,Ante Rebic,16,1,Croatia,,
+317,Milan Badelj,38,1,Croatia,78,Croatia
+318,Marko Pjaca,16,1,Croatia,76,Croatia
+319,Domagoj Vida,59,2,Croatia,,
+320,Josip Pivaric,19,0,Croatia,,
+321,Danijel Subasic,38,0,Croatia,,
+322,Hannes Þor Halldorsson,49,0,Iceland,,
+323,Birkir Mar Sævarsson,79,1,Iceland,,
+324,Samuel Friðjonsson,4,0,Iceland,,
+325,Albert Guðmundsson,5,3,Iceland,66,Iceland
+326,Sverrir Ingi Ingason,20,3,Iceland,72,Iceland
+327,Ragnar Sigurðsson,77,3,Iceland,72,Iceland
+328,Johann Berg Guðmundsson,67,7,Iceland,,
+329,Birkir Bjarnason,67,9,Iceland,73,Iceland
+330,Bjorn Bergmann Sigurðarson,12,1,Iceland,,
+331,Gylfi Sigurðsson,57,19,Iceland,82,Iceland
+332,Alfreð Finnbogason,47,13,Iceland,77,Iceland
+333,Frederik Schram,4,0,Iceland,,
+334,Runar Alex Runarsson,3,0,Iceland,,
+335,Kari Arnason,67,5,Iceland,,
+336,Holmar Orn Eyjolfsson,10,1,Iceland,,
+337,Olafur Ingi Skulason,36,1,Iceland,,
+338,Aron Gunnarsson,77,2,Iceland,72,Iceland
+339,Horður Bjorgvin Magnusson,16,2,Iceland,,
+340,Rurik Gislason,47,3,Iceland,,
+341,Emil Hallfreðsson,64,1,Iceland,75,Iceland
+342,Arnor Ingvi Traustason,19,5,Iceland,,
+343,Jon Daði Boðvarsson,38,2,Iceland,,
+344,Ari Freyr Skulason,56,0,Iceland,,
+345,Ikechukwu Ezenwa,24,0,Nigeria,,
+346,Brian Idowu,5,1,Nigeria,70,Russia
+347,Elderson Echiejile,62,3,Nigeria,,
+348,Wilfred Ndidi,17,0,Nigeria,,
+349,William Troost-Ekong,22,1,Nigeria,71,Nigeria
+350,Leon Balogun,19,0,Nigeria,75,Nigeria
+351,Ahmed Musa,72,13,Nigeria,75,Nigeria
+352,Oghenekaro Etebo,14,1,Nigeria,,
+353,Odion Ighalo,19,4,Nigeria,,
+354,John Obi Mikel,85,6,Nigeria,,
+355,Victor Moses,34,11,Nigeria,79,Nigeria
+356,Shehu Abdullahi,25,0,Nigeria,,
+357,Simeon Nwankwo,2,0,Nigeria,,
+358,Kelechi Iheanacho,18,8,Nigeria,75,Nigeria
+359,Joel Obi,17,0,Nigeria,73,Nigeria
+360,Daniel Akpeyi,7,0,Nigeria,,
+361,Ogenyi Onazi,52,1,Nigeria,74,Nigeria
+362,Alex Iwobi,19,5,Nigeria,74,Nigeria
+363,John Ogu,20,2,Nigeria,,
+364,Chidozie Awaziem,4,0,Nigeria,72,Nigeria
+365,Tyronne Ebuehi,7,0,Nigeria,66,Nigeria
+366,Kenneth Omeruo,39,0,Nigeria,72,Nigeria
+367,Francis Uzoho,6,0,Nigeria,63,Nigeria
+368,Alisson (footballer,26,0,Brazil,,
+369,Thiago Silva,71,5,Brazil,,
+370,Miranda,47,2,Brazil,,
+371,Pedro Geromel,2,0,Brazil,,
+372,Casemiro,24,0,Brazil,,
+373,Filipe Luis,33,2,Brazil,,
+374,Douglas Costa,25,3,Brazil,,
+375,Renato Augusto,28,5,Brazil,80,Brazil
+376,Gabriel Jesus,17,10,Brazil,,
+377,Neymar,85,55,Brazil,,
+378,Philippe Coutinho,37,10,Brazil,,
+379,Marcelo,54,6,Brazil,,
+380,Marquinhos,26,0,Brazil,,
+381,Danilo (footballer,18,0,Brazil,,
+382,Paulinho,50,12,Brazil,,
+383,Cassio Ramos,1,0,Brazil,,
+384,Fernandinho,44,2,Brazil,,
+385,Fred,8,0,Brazil,,
+386,Willian,57,8,Brazil,,
+387,Roberto Firmino,21,6,Brazil,,
+388,Taison,8,1,Brazil,,
+389,Fagner Conserva Lemos,4,0,Brazil,,
+390,Ederson Moraes,1,0,Brazil,,
+391,Keylor Navas,81,0,Costa Rica,85,Costa Rica
+392,Johnny Acosta,69,2,Costa Rica,,
+393,Giancarlo Gonzalez,70,2,Costa Rica,,
+394,Ian Smith (footballer,4,0,Costa Rica,,
+395,Celso Borges,113,21,Costa Rica,78,Costa Rica
+396,Oscar Duarte,39,2,Costa Rica,,
+397,Christian Bolanos,81,6,Costa Rica,,
+398,Bryan Oviedo,44,1,Costa Rica,72,Costa Rica
+399,Daniel Colindres,11,0,Costa Rica,,
+400,Bryan Ruiz,110,24,Costa Rica,,
+401,Johan Venegas,47,10,Costa Rica,67,Costa Rica
+402,Joel Campbell,77,15,Costa Rica,77,Costa Rica
+403,Rodney Wallace,30,4,Costa Rica,68,Costa Rica
+404,Randall Azofeifa,58,3,Costa Rica,,
+405,Francisco Calvo,38,4,Costa Rica,71,Costa Rica
+406,Cristian Gamboa,68,3,Costa Rica,72,Costa Rica
+407,Yeltsin Tejeda,51,0,Costa Rica,68,Costa Rica
+408,Patrick Pemberton,39,0,Costa Rica,,
+409,Kendall Waston,26,3,Costa Rica,74,Costa Rica
+410,David Guzman,43,0,Costa Rica,72,Costa Rica
+411,Marco Urena,64,15,Costa Rica,,
+412,Kenner Gutierrez,9,0,Costa Rica,,
+413,Leonel Moreira,9,0,Costa Rica,,
+414,Vladimir Stojkovic,81,0,Serbia,,
+415,Antonio Rukavina,47,0,Serbia,77,Serbia
+416,Dusko Tosic,24,1,Serbia,,
+417,Luka Milivojevic,28,1,Serbia,,
+418,Uros Spajic,5,0,Serbia,,
+419,Branislav Ivanovic,103,13,Serbia,,
+420,Andrija Zivkovic,10,0,Serbia,,
+421,Aleksandar Prijovic,9,1,Serbia,,
+422,Aleksandar Mitrovic,37,16,Serbia,,
+423,Dusan Tadic,53,13,Serbia,,
+424,Aleksandar Kolarov,76,10,Serbia,79,Serbia
+425,Predrag Rajkovic,8,0,Serbia,,
+426,Milos Veljkovic,2,0,Serbia,,
+427,Milan Rodic,1,0,Serbia,,
+428,Nikola Milenkovic,3,0,Serbia,,
+429,Marko Grujic,8,0,Serbia,,
+430,Filip Kostic,23,2,Serbia,,
+431,Nemanja Radonjic,3,0,Serbia,,
+432,Luka Jovic,1,0,Serbia,,
+433,Sergej Milinkovic-Savic,4,0,Serbia,,
+434,Nemanja Matic,40,2,Serbia,,
+435,Adem Ljajic,29,6,Serbia,,
+436,Marko Dmitrovic,2,0,Serbia,,
+437,Yann Sommer,35,0,Switzerland,83,Switzerland
+438,Stephan Lichtsteiner,100,8,Switzerland,82,Switzerland
+439,Francois Moubandje,18,0,Switzerland,,
+440,Nico Elvedi,6,0,Switzerland,74,Switzerland
+441,Manuel Akanji,7,0,Switzerland,72,Switzerland
+442,Michael Lang,24,2,Switzerland,77,Switzerland
+443,Breel Embolo,25,3,Switzerland,76,Switzerland
+444,Remo Freuler,10,0,Switzerland,75,Switzerland
+445,Haris Seferovic,51,12,Switzerland,,
+446,Granit Xhaka,62,9,Switzerland,82,Switzerland
+447,Valon Behrami,79,2,Switzerland,77,Switzerland
+448,Yvon Mvogo,0,0,Switzerland,75,Switzerland
+449,Ricardo Rodriguez,53,5,Switzerland,,
+450,Steven Zuber,12,3,Switzerland,75,Switzerland
+451,Blerim Dzemaili,65,9,Switzerland,,
+452,Gelson Fernandes,67,2,Switzerland,,
+453,Denis Zakaria,10,0,Switzerland,72,Switzerland
+454,Mario Gavranovic,14,5,Switzerland,,
+455,Josip Drmic,29,9,Switzerland,,
+456,Johan Djourou,74,2,Switzerland,73,Switzerland
+457,Roman Burki,9,0,Switzerland,,
+458,Fabian Schar,39,7,Switzerland,,
+459,Xherdan Shaqiri,70,20,Switzerland,82,Switzerland
+460,Manuel Neuer,76,0,Germany,92,Germany
+461,Marvin Plattenhardt,6,0,Germany,78,Germany
+462,Jonas Hector,38,3,Germany,80,Germany
+463,Matthias Ginter,18,0,Germany,78,Germany
+464,Mats Hummels,64,5,Germany,88,Germany
+465,Sami Khedira,75,7,Germany,84,Germany
+466,Julian Draxler,44,6,Germany,84,Germany
+467,Toni Kroos,83,12,Germany,90,Germany
+468,Timo Werner,14,8,Germany,82,Germany
+469,Mesut Ozil,90,23,Germany,,
+470,Marco Reus,31,9,Germany,86,Germany
+471,Kevin Trapp,3,0,Germany,81,Germany
+472,Thomas Muller,91,38,Germany,,
+473,Leon Goretzka,15,6,Germany,83,Germany
+474,Niklas Sule,11,0,Germany,,
+475,Antonio Rudiger,24,1,Germany,,
+476,Jerome Boateng,71,1,Germany,,
+477,Joshua Kimmich,29,3,Germany,81,Germany
+478,Sebastian Rudy,25,1,Germany,81,Germany
+479,Julian Brandt,16,1,Germany,80,Germany
+480,Ilkay Gundogan,26,4,Germany,,
+481,Marc-Andre ter Stegen,20,0,Germany,,
+482,Mario Gomez,75,31,Germany,,
+483,Jose de Jesus Corona,52,0,Mexico,,
+484,Hugo Ayala,43,1,Mexico,75,Mexico
+485,Carlos Salcedo,21,0,Mexico,74,Mexico
+486,Rafael Marquez,145,18,Mexico,,
+487,Erick Gutierrez,9,0,Mexico,,
+488,Jonathan dos Santos,32,0,Mexico,80,Mexico
+489,Miguel Layun,64,6,Mexico,,
+490,Marco Fabian,39,9,Mexico,,
+491,Raul Jimenez,63,13,Mexico,,
+492,Giovani dos Santos,105,19,Mexico,78,Mexico
+493,Carlos Vela,68,18,Mexico,82,Mexico
+494,Alfredo Talavera,27,0,Mexico,,
+495,Guillermo Ochoa,94,0,Mexico,79,Mexico
+496,Javier Hernandez,102,49,Mexico,,
+497,Hector Moreno,92,3,Mexico,,
+498,Hector Herrera,66,5,Mexico,,
+499,Jesus Manuel Corona,36,7,Mexico,,
+500,Andres Guardado,145,25,Mexico,,
+501,Oribe Peralta,67,26,Mexico,76,Mexico
+502,Javier Aquino,53,0,Mexico,77,Mexico
+503,Edson Alvarez,13,1,Mexico,,
+504,Hirving Lozano,28,7,Mexico,78,Mexico
+505,Jesus Gallardo,23,0,Mexico,,
+506,Kim Seung-gyu,33,0,South Korea,,
+507,Lee Yong,28,0,South Korea,,
+508,Jung Seung-hyun,6,0,South Korea,,
+509,Oh Ban-suk,2,0,South Korea,,
+510,Yun Young-sun,6,0,South Korea,,
+511,Park Joo-ho,36,0,South Korea,,
+512,Son Heung-min,67,21,South Korea,,
+513,Ju Se-jong,11,1,South Korea,,
+514,Kim Shin-wook,50,10,South Korea,,
+515,Lee Seung-woo,4,0,South Korea,,
+516,Hwang Hee-chan,14,2,South Korea,,
+517,Kim Min-woo,20,1,South Korea,,
+518,Koo Ja-cheol,68,19,South Korea,,
+519,Hong Chul,14,0,South Korea,,
+520,Jung Woo-young,30,1,South Korea,,
+521,Ki Sung-yueng,102,10,South Korea,,
+522,Lee Jae-sung,35,6,South Korea,,
+523,Moon Seon-min,3,1,South Korea,,
+524,Kim Young-gwon,53,2,South Korea,,
+525,Jang Hyun-soo,51,3,South Korea,,
+526,Kim Jin-hyeon,15,0,South Korea,,
+527,Go Yo-han,20,0,South Korea,,
+528,Jo Hyeon-woo,6,0,South Korea,,
+529,Robin Olsen,18,0,Sweden,74,Sweden
+530,Mikael Lustig,66,6,Sweden,73,Sweden
+531,Victor Lindelof,21,1,Sweden,,
+532,Andreas Granqvist,72,6,Sweden,80,Sweden
+533,Martin Olsson,43,5,Sweden,75,Sweden
+534,Ludwig Augustinsson,15,0,Sweden,73,Sweden
+535,Sebastian Larsson,100,6,Sweden,74,Sweden
+536,Albin Ekdal,34,0,Sweden,76,Sweden
+537,Marcus Berg,57,18,Sweden,80,Sweden
+538,Emil Forsberg,36,6,Sweden,83,Sweden
+539,John Guidetti,20,1,Sweden,79,Sweden
+540,Karl-Johan Johnsson,5,0,Sweden,75,Sweden
+541,Gustav Svensson,13,0,Sweden,74,Sweden
+542,Filip Helander,4,0,Sweden,73,Sweden
+543,Oscar Hiljemark,22,2,Sweden,73,Sweden
+544,Emil Krafth,13,0,Sweden,73,Sweden
+545,Viktor Claesson,22,3,Sweden,73,Sweden
+546,Pontus Jansson,15,0,Sweden,77,Sweden
+547,Marcus Rohden,12,1,Sweden,,
+548,Ola Toivonen,59,13,Sweden,75,Sweden
+549,Jimmy Durmaz,45,3,Sweden,75,Sweden
+550,Isaac Kiese Thelin,20,2,Sweden,71,Sweden
+551,Kristoffer Nordfeldt,8,0,Sweden,73,Sweden
+552,Thibaut Courtois,58,0,Belgium,89,Belgium
+553,Toby Alderweireld,77,3,Belgium,86,Belgium
+554,Thomas Vermaelen,66,1,Belgium,,
+555,Vincent Kompany,77,4,Belgium,85,Belgium
+556,Jan Vertonghen,102,8,Belgium,85,Belgium
+557,Axel Witsel,90,9,Belgium,82,Belgium
+558,Kevin De Bruyne,62,14,Belgium,89,Belgium
+559,Marouane Fellaini,82,17,Belgium,79,Belgium
+560,Romelu Lukaku,69,36,Belgium,86,Belgium
+561,Eden Hazard,86,22,Belgium,90,Belgium
+562,Yannick Ferreira Carrasco,26,5,Belgium,,
+563,Simon Mignolet,21,0,Belgium,81,Belgium
+564,Koen Casteels,0,0,Belgium,78,Belgium
+565,Dries Mertens,69,14,Belgium,86,Belgium
+566,Thomas Meunier,25,5,Belgium,81,Belgium
+567,Thorgan Hazard,11,1,Belgium,80,Belgium
+568,Youri Tielemans,9,0,Belgium,80,Belgium
+569,Adnan Januzaj,8,0,Belgium,77,Belgium
+570,Mousa Dembele,76,5,Belgium,,
+571,Dedryck Boyata,7,0,Belgium,72,Belgium
+572,Michy Batshuayi,16,7,Belgium,80,Belgium
+573,Nacer Chadli,45,5,Belgium,78,Belgium
+574,Leander Dendoncker,5,0,Belgium,79,Belgium
+575,Jordan Pickford,3,0,England,77,England
+576,Kyle Walker,35,0,England,83,England
+577,Danny Rose,18,0,England,82,England
+578,Danny Rose,18,0,England,65,England
+579,Danny Rose,18,0,England,65,England
+580,Eric Dier,26,3,England,82,England
+581,John Stones,26,0,England,79,England
+582,Harry Maguire,5,0,England,77,England
+583,Jesse Lingard,12,1,England,78,England
+584,Jordan Henderson,39,0,England,82,England
+585,Harry Kane,24,13,England,86,England
+586,Raheem Sterling,38,2,England,82,England
+587,Jamie Vardy,22,7,England,81,England
+588,Kieran Trippier,7,0,England,78,England
+589,Jack Butland,8,0,England,81,England
+590,Danny Welbeck,39,16,England,80,England
+591,Gary Cahill,60,5,England,84,England
+592,Phil Jones,25,0,England,80,England
+593,Fabian Delph,11,0,England,77,England
+594,Ashley Young,34,7,England,75,England
+595,Marcus Rashford,19,3,England,81,England
+596,Dele Alli,25,2,England,84,England
+597,Ruben Loftus-Cheek,4,0,England,70,England
+598,Trent Alexander-Arnold,1,0,England,69,England
+599,Nick Pope,1,0,England,70,England
+600,Jaime Penedo,131,0,Panama,,
+601,Michael Amir Murillo,22,2,Panama,,
+602,Harold Cummings,52,0,Panama,66,Panama
+603,Fidel Escobar,23,1,Panama,65,Panama
+604,Roman Torres,111,10,Panama,,
+605,Gabriel Enrique Gomez,144,12,Panama,,
+606,Blas Perez,118,43,Panama,,
+607,Edgar Yoel Barcenas,29,0,Panama,,
+608,Gabriel Torres,72,14,Panama,68,Panama
+609,Ismael Diaz,11,2,Panama,,
+610,Armando Cooper,98,7,Panama,67,Panama
+611,Jose Calderon,31,0,Panama,,
+612,Adolfo Machado,76,1,Panama,71,Panama
+613,Valentin Pimentel,23,1,Panama,,
+614,Erick Davis,38,0,Panama,,
+615,Abdiel Arroyo,33,5,Panama,,
+616,Luis Ovalle,25,0,Panama,,
+617,Luis Tejada,105,43,Panama,,
+618,Ricardo Avila,5,0,Panama,,
+619,Anibal Godoy,88,1,Panama,,
+620,Jose Luis Rodriguez,2,0,Panama,,
+621,Alex Rodriguez,6,0,Panama,,
+622,Felipe Baloy,102,3,Panama,,
+623,Farouk Ben Mustapha,15,0,Tunisia,63,Tunisia
+624,Syam Ben Youssef,42,1,Tunisia,72,Tunisia
+625,Yohan Benalouane,4,0,Tunisia,75,Tunisia
+626,Yassine Meriah,16,1,Tunisia,,
+627,Oussama Haddadi,9,0,Tunisia,66,Tunisia
+628,Rami Bedoui,8,0,Tunisia,,
+629,Saif-Eddine Khaoui,5,0,Tunisia,,
+630,Fakhreddine Ben Youssef,39,5,Tunisia,,
+631,Anice Badri,7,2,Tunisia,,
+632,Wahbi Khazri,35,12,Tunisia,78,Tunisia
+633,Dylan Bronn,5,0,Tunisia,65,Tunisia
+634,Ali Maaloul,46,0,Tunisia,,
+635,Ferjani Sassi,39,3,Tunisia,,
+636,Mohamed Amine Ben Amor,26,1,Tunisia,,
+637,Ahmed Khalil,3,0,Tunisia,,
+638,Aymen Mathlouthi,70,0,Tunisia,,
+639,Ellyes Skhiri,5,0,Tunisia,74,Tunisia
+640,Bassem Srarfi,5,0,Tunisia,68,Tunisia
+641,Saber Khalifa,44,7,Tunisia,,
+642,Ghailene Chaalali,6,1,Tunisia,,
+643,Hamdi Nagguez,15,0,Tunisia,,
+644,Mouez Hassen,3,0,Tunisia,69,France
+645,Naim Sliti,17,3,Tunisia,,
+646,David Ospina,86,0,Colombia,79,Colombia
+647,Cristian Zapata,55,2,Colombia,78,Colombia
+648,Oscar Murillo,13,0,Colombia,,
+649,Santiago Arias,41,0,Colombia,77,Colombia
+650,Wilmar Barrios,10,0,Colombia,74,Colombia
+651,Carlos Sanchez Moreno,85,0,Colombia,,
+652,Carlos Bacca,45,14,Colombia,82,Colombia
+653,Abel Aguilar,70,7,Colombia,75,Colombia
+654,Radamel Falcao,73,29,Colombia,,
+655,James Rodriguez,63,21,Colombia,,
+656,Juan Cuadrado,70,7,Colombia,82,Colombia
+657,Camilo Vargas,5,0,Colombia,75,Colombia
+658,Yerry Mina,12,3,Colombia,,
+659,Luis Muriel,18,2,Colombia,80,Colombia
+660,Mateus Uribe,8,0,Colombia,,
+661,Jefferson Lerma,5,0,Colombia,75,Colombia
+662,Johan Mojica,4,1,Colombia,70,Colombia
+663,Farid Diaz,13,0,Colombia,,
+664,Miguel Borja,7,2,Colombia,,
+665,Juan Fernando Quintero,15,2,Colombia,77,Colombia
+666,Jose Izquierdo,5,1,Colombia,,
+667,Jose Fernando Cuadrado,1,0,Colombia,,
+668,Davinson Sanchez,9,0,Colombia,,
+669,Eiji Kawashima,84,0,Japan,72,Japan
+670,Naomichi Ueda,4,0,Japan,70,Japan
+671,Gen Shoji,11,1,Japan,73,Japan
+672,Keisuke Honda,95,36,Japan,78,Japan
+673,Yuto Nagatomo,105,3,Japan,73,Japan
+674,Wataru Endo,12,0,Japan,69,Japan
+675,Gaku Shibasaki,18,3,Japan,75,Japan
+676,Genki Haraguchi,33,6,Japan,75,Japan
+677,Shinji Okazaki,113,50,Japan,77,Japan
+678,Shinji Kagawa,92,30,Japan,83,Japan
+679,Takashi Usami,24,3,Japan,74,Japan
+680,Masaaki Higashiguchi,5,0,Japan,72,Japan
+681,Yoshinori Muto,24,2,Japan,,
+682,Takashi Inui,27,4,Japan,78,Japan
+683,Yuya Osako,29,7,Japan,,
+684,Hotaru Yamaguchi,42,2,Japan,70,Japan
+685,Makoto Hasebe,110,2,Japan,77,Japan
+686,Ryota Oshima,5,0,Japan,69,Japan
+687,Hiroki Sakai,43,0,Japan,76,Japan
+688,Tomoaki Makino,32,4,Japan,69,Japan
+689,Gotoku Sakai,41,0,Japan,,
+690,Maya Yoshida,82,10,Japan,75,Japan
+691,Kosuke Nakamura,4,0,Japan,69,Japan
+692,Wojciech Szczesny,35,0,Poland,,
+693,Michal Pazdan,33,0,Poland,,
+694,Artur Jedrzejczyk,36,3,Poland,,
+695,Thiago Cionek,19,0,Poland,,
+696,Jan Bednarek,3,0,Poland,68,Poland
+697,Jacek Goralski,5,0,Poland,,
+698,Arkadiusz Milik,40,12,Poland,79,Poland
+699,Karol Linetty,20,1,Poland,75,Poland
+700,Robert Lewandowski,95,55,Poland,91,Poland
+701,Grzegorz Krychowiak,51,2,Poland,81,Poland
+702,Kamil Grosicki,57,12,Poland,76,Poland
+703,Bartosz Bialkowski,1,0,Poland,,
+704,Maciej Rybus,51,2,Poland,72,Poland
+705,Lukasz Teodorczyk,17,4,Poland,,
+706,Kamil Glik,57,4,Poland,85,Poland
+707,Jakub Blaszczykowski,99,20,Poland,,
+708,Slawomir Peszko,43,2,Poland,,
+709,Bartosz Bereszynski,8,0,Poland,,
+710,Piotr Zielinski,33,5,Poland,,
+711,Lukasz Piszczek,63,3,Poland,,
+712,Rafal Kurzawa,3,0,Poland,,
+713,Lukasz Fabianski,45,0,Poland,,
+714,Dawid Kownacki,2,1,Poland,68,Poland
+715,Abdoulaye Diallo,17,0,Senegal,70,Senegal
+716,Adama Mbengue,6,0,Senegal,68,Senegal
+717,Kalidou Koulibaly,26,0,Senegal,84,Senegal
+718,Kara Mbodji,52,5,Senegal,,
+719,Idrissa Gueye,61,1,Senegal,83,Senegal
+720,Salif Sane,22,0,Senegal,,
+721,Moussa Sow,51,18,Senegal,,
+722,Cheikhou Kouyate,48,2,Senegal,,
+723,Mame Biram Diouf,49,10,Senegal,,
+724,Sadio Mane,53,14,Senegal,,
+725,Cheikh N'Doye,26,3,Senegal,76,Senegal
+726,Youssouf Sabaly,5,0,Senegal,77,France
+727,Alfred N'Diaye,21,0,Senegal,78,Senegal
+728,Moussa Konate,28,10,Senegal,,
+729,Diafra Sakho,12,3,Senegal,75,Senegal
+730,Khadim N'Diaye,26,0,Senegal,,
+731,Badou Ndiaye,20,1,Senegal,,
+732,Ismaila Sarr,16,3,Senegal,,
+733,M'Baye Niang,7,0,Senegal,78,France
+734,Keita Balde,19,3,Senegal,,
+735,Lamine Gassama,36,0,Senegal,68,Senegal
+736,Moussa Wague,10,0,Senegal,,
+737,Alfred Gomis,1,0,Senegal,74,Senegal
